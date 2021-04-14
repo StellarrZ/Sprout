@@ -6,3 +6,5 @@
 - ## Our website: [Music2Score.xyz](https://music2score.xyz)
 
 - ## Our git repository: [Music2Score](https://github.com/music2score/music2score)
+
+- ## Try with MIDI files? [MIDI Samples](https://git.uwaterloo.ca/z7sheng/sprout/-/tree/master/music2score/samples)
