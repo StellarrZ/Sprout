@@ -17,21 +17,21 @@
 
 &emsp;<font face="MV Boli" size=4>Visit our website through <font face="Calibri">[Music2Score.xyz](https://music2score.xyz) :point_left:<font face="MV Boli" size=4>&ensp;It is saying hello to you! :smile:
 
-![demo01p](music2score/demo/demo01p.png)
+![demo01p](demo/01p.png)
 
-![demo02](music2score/demo/demo02.png)
+![demo02](demo/02.png)
 
-![demo03a](music2score/demo/demo03a.png)
+![demo03a](demo/03a.png)
 
-![demo04](music2score/demo/demo04.png)
+![demo04](demo/04.png)
 
-![demo05](music2score/demo/demo05.png)
+![demo05](demo/05.png)
 
-![demo06a](music2score/demo/demo06a.png)
+![demo06a](demo/06a.png)
 
-![demo07](music2score/demo/demo07.png)
+![demo07](demo/07.png)
 
-![demo08](music2score/demo/demo08.png)
+![demo08](demo/08.png)
 
 
 ## abc
