@@ -24,10 +24,10 @@
 ![demo02](demo/02.png)
 &emsp;  
 &emsp;After login, you are permitted to upload your own music files.  
-&emsp;Click on **Upload New** in the **top right corner** (or **Upload Your Own File** in the **bottom left corner**) to explore that functionality. 
+&emsp;Click on **Upload New** in the **top right corner** (or **Upload Your Own File** in the **bottom left corner**) to explore that  
+&emsp;functionality. 
 
 ![demo03a](demo/03a.png)
-&emsp;  
 &emsp;For the current release, **MIDI** is the only format that we support.  
 &emsp;We are still working on other cool features including accepting waveform files.  
 &emsp;No MIDI file on your device? No worries, please try with our license free samples [here](https://git.uwaterloo.ca/z7sheng/sprout/-/tree/master/music2score/samples).
@@ -56,9 +56,6 @@
 &emsp;
 ![demo08](demo/08.png)
 &emsp;
-
-
-<!-- ## abc -->
 
 
 <!-- ../../data_repo/music2score/ -->
