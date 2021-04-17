@@ -17,7 +17,7 @@
 
 &emsp;<font face="MV Boli" size=4>Visit our website through <font face="Calibri">[Music2Score.xyz](https://music2score.xyz) :point_left:<font face="MV Boli" size=4>&ensp;It is saying hello to you! :smile:  
 &emsp;**Sign up** your account in the **top right corner**.  
-&emsp;Of course, you may **sign in** with our guest account instead `welcome@music2score.xyz`.  
+&emsp;Of course, you may **sign in** with our guest account instead: `welcome@music2score.xyz`  
 &emsp;I am not telling you the password is "OneTwoThree" in digits though. :confused:
 
 ![demo01p](demo/01p.png)
@@ -43,7 +43,7 @@
 
 &emsp;You can **view** the sheet-score online or **download** it as a pdf.  
 &emsp;Hum the opening bars~~<!--  :musical_score::notes::notes::musical_note::notes: -->  
-&emsp;Ain't this the melody you familiar with? <!-- :musical_keyboard::musical_keyboard: -->
+&emsp;Ain't this the melody that you familiar with? <!-- :musical_keyboard::musical_keyboard: -->
 
 ![demo06a](demo/06a.png)
 &emsp;
