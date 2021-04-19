@@ -5,9 +5,9 @@
 
 - ## Our website (VPN needed)<font face="Calibri">&ensp;------>&ensp;[Music2Score.xyz](https://music2score.xyz)<font face="Dubal Light">
 
-- ## Our git repository<font face="Calibri">&ensp;------------>&ensp;[Music2Score](https://github.com/music2score/music2score)<font face="Dubal Light">
+- ## Our git repository<font face="Calibri">&ensp;---------------->&ensp;[Music2Score](https://github.com/music2score/music2score)<font face="Dubal Light">
 
-- ## Try with MIDI files?<font face="Calibri">&ensp;------------>&ensp;[MIDI Samples](https://git.uwaterloo.ca/z7sheng/sprout/-/tree/master/music2score/samples)<font face="Dubal Light">
+- ## Try with MIDI files?<font face="Calibri">&ensp;--------------->&ensp;[MIDI Samples](https://git.uwaterloo.ca/z7sheng/sprout/-/tree/master/music2score/samples)<font face="Dubal Light">
 
   &emsp;
   &emsp;
